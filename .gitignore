@@ -1,0 +1,8 @@
+# build output
+server
+client
+*.o
+build/
+
+# local tooling
+.claude/
